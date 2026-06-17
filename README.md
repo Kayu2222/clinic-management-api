@@ -1,3 +1,5 @@
+
+<img width="1643" height="941" alt="swagger page" src="https://github.com/user-attachments/assets/9aaf0c48-4582-452c-9e5b-11f2383f6540" />
 # Clinic Management API
 
 A Spring Boot REST API for managing a care home facility — patients, staff, beds, and shift rosters.
@@ -90,6 +92,7 @@ Username: sa  |  Password: (empty)
 | DELETE | `/api/shifts` | Remove a shift assignment |
 
 ## Example Requests
+<img width="1016" height="776" alt="execute successfully" src="https://github.com/user-attachments/assets/c6f4a9ab-4f2d-4f13-acc1-2f2d51aaeb7b" />
 
 ```bash
 # Register a new patient
@@ -115,3 +118,4 @@ curl -X POST http://localhost:8080/api/shifts \
 ```
 
 14 unit tests covering PatientService, BedService, and StaffService.
+<img width="557" height="344" alt="JUnit test" src="https://github.com/user-attachments/assets/89bb6f01-9d69-4d4b-89b3-5ab31fb9f3ef" />
